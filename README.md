@@ -1,4 +1,4 @@
-# Frame-Animation-Package
+# Frame Animation Package
 A frame-by-frame animation system for Unity.
 
 ## How To Use
